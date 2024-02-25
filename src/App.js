@@ -29,6 +29,7 @@ function App() {
 
   return (
     <div className="calculator">
+      <h1>React Calculator</h1>
       <input
         type="text"
         className="input-field"
